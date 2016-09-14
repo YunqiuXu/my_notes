@@ -2,9 +2,8 @@
 + I do not think so , this is just the "merge" part of merge sort
 because the 2 sublists are all sorted.
 + I implement the merge process in the Q2 main function 
-
-https://github.com/aistrate/AlgorithmsSedgewick/blob/master/2-Sorting/2-2-Mergesort/Merge.java
-+ line 21-45 can be a good ref
++ following can be a good ref
+http://www.cnblogs.com/A_ming/archive/2010/04/15/1712313.html
 
 ##2. Do u use comparable
 + Y, I import it and create a DefaultComparator object
