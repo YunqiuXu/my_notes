@@ -30,7 +30,8 @@ Tags: Github
 + `git add xyq.py` add your file to the cache
     + `git add .` add all the files in this repository
 + `git rm -cached` remove the files in the cache
-+ `git commit -m 'your comment'`
++ `git commit -a -m 'your comment'`
+    + If there is no '-a', you can not remove files
 + `git log` check the commit history
 + `git reset --hard HEAD^` go back to previous version
     + `git reset --hard HEAD` current version
